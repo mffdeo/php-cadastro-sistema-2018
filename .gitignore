@@ -1,0 +1,28 @@
+# Arquivos sensíveis
+config.php
+
+# Sistema / SO
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+*.cache
+
+# Arquivos de debug
+*.sql.bak
+*.dump
+
+# IDEs / Editores
+.vscode/
+.idea/
+
+# WSL / Linux lixo
+*~
+
+# Dependências 
+vendor/
+
+# Arquivos de ambiente 
+.env
