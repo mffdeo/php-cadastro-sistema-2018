@@ -142,11 +142,13 @@ http://localhost:8000
 
 ## 🚧 Melhorias futuras
 
-* Sistema de login com `password_verify`
-* Uso de prepared statements (prevenção de SQL Injection)
-* Validação de formulário mais robusta
-* Interface responsiva
-* Deploy em ambiente online
+As melhorias planejadas estão organizadas e acompanhadas na **[Issue #1](https://github.com/mffdeo/php-cadastro-sistema-2018/issues/1)**:
+
+- [ ] Sistema de login com `password_verify`
+- [ ] Uso de prepared statements (prevenção de SQL Injection)
+- [ ] Validação de formulário mais robusta
+- [ ] Interface responsiva
+- [ ] Deploy em ambiente online
 
 ---
 
